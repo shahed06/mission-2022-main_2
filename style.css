@@ -1,0 +1,200 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.start-point{
+    padding-left: 200px;
+    padding-top: 100px;
+}
+.fast-seson{
+    width: 70%;
+    height: 500px;
+}
+.person-1{
+    width: 40%;
+    margin-left: 500px;
+}
+section{
+    display: flex;
+}
+.stay{
+    margin-left: 20px;
+    font-size: 50px;
+    font-family: 'Yeseva One', cursive;
+    color: gray;
+    font-weight: 900;
+}
+.stay1{
+    color: rgb(231, 149, 77);
+}
+.sidebar{
+    width: 15%;
+    height: 117px;
+    background-color: orangered;
+    margin-left: 30px;
+    border-radius: 5px;
+    color: orangered;
+    margin-top: 65px;
+}
+.leson-1{
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+}
+.explore{
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 15px;
+    background-color: rgb(253, 101, 46);
+    color: white;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.scroll{
+    font-family: 'Poppins', sans-serif;
+    padding-top: 15px;
+}
+.part2{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    width: 100%;
+    font-size: 50px;
+    font-weight: bold;
+    overflow: hidden;
+    color: rgb(87, 87, 87);
+}
+.year{
+    color: rgb(255, 167, 91);
+}
+.box1{
+    box-shadow: 10px 10px 30px rgb(128, 128, 128);
+    width: 20%;
+    padding-right: 10px;
+    margin-left: 250px;
+    margin-right: 50px;
+    height: 350px;
+    padding-left: 10px;
+    border-radius: 15px;
+    font-family: 'Poppins', sans-serif;
+    padding-bottom: 50px;
+    background-color: rgb(223, 235, 252);
+    
+}
+.mission{
+    width: 40%;
+    margin: 0%;
+    
+}
+.box2{
+    box-shadow: 10px 10px 30px grey;
+    width: 20%;
+    padding-right: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 350px;
+    padding-left: 10px;
+    border-radius: 15px;
+    font-family: 'Poppins', sans-serif;
+    padding-bottom: 50px;
+    background-color: rgb(255, 240, 242);
+    
+}
+.vission{
+    width: 40%;
+    margin: 0%;
+    
+}
+.box3{
+    box-shadow: 10px 10px 30px grey;
+    width: 20%;
+    padding-right: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 350px;
+    padding-left: 10px;
+    border-radius: 15px;
+    font-family: 'Poppins', sans-serif;
+    padding-bottom: 50px;
+    background-color: rgb(255, 247, 231);
+}
+.goals{
+    width: 40%;
+    margin: 0%;
+    
+}
+.box{
+    margin-top: 100px;
+}
+.part3{
+    font-family: 'Poppins', sans-serif;
+}
+.bow1{
+    display: flex;
+    width: 40%;
+    float: left;
+    margin-left: 120px;
+    margin-top: 90px;
+    margin-right: 90px;
+}
+.read{
+    text-decoration: none;
+    padding: 15px  30px;
+    background-color: rgb(240, 78, 57);
+    border-radius: 5px;
+    color: white;
+}
+.dev{
+    margin-top: 240px;
+    padding-left: 100px;
+}
+.dev1{
+
+}
+.dev2{
+    width: 50;
+    margin-bottom: 50px;
+    padding-right: 400px;
+}
+
+.last-start{
+    font-family: 'Poppins', sans-serif;
+
+}
+.last-parent{
+    padding-left: 200px;
+    width: 80%;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.last{
+    font-size: 30px;
+}
+.last2{
+    font-size: 30px;
+}
+.last3{
+    padding-right: 40px;
+    margin-bottom: 50px;
+}
+.bow3{
+    width: 80%;
+    margin-right: 20px;
+
+}
+.last-part{
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    background-color: rgb(36, 36, 36);
+    margin-top: 50px;
+}
+.hard{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+.m2022{
+    font-family: 'Yeseva One', cursive;
+    color: white;
+}
+.m20{
+    color: tomato;
+}
