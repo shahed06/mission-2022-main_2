@@ -198,3 +198,34 @@ section{
 .m20{
     color: tomato;
 }
+.person3{
+    width: 60%;
+    padding-left: 150px;
+    padding-bottom: 50px;
+    font-family: 'Poppins', sans-serif;
+
+}
+.text1{
+    padding-right: 50px;
+    padding-top: 30px;
+    box-shadow: 10px 10px 40px gray;
+    margin-right: 300px;
+    width: 40%;
+    font-family: 'Poppins', sans-serif;
+    padding-left: 50px;
+    height: 400px;
+    border-radius: 10px;
+    margin-top: 160px;
+}
+.shape3{
+    width: 20%;
+}
+.hire33{
+    text-decoration: none;
+    padding: 10px 40px;
+    background-color: orangered;
+    color: white;
+    border-radius: 5px;
+    font-family: 'Poppins', sans-serif;
+    box-shadow: 5px 5px 10px gray;
+}
