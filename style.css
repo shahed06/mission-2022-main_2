@@ -21,11 +21,12 @@ section{
     margin-left: 20px;
     font-size: 50px;
     font-family: 'Yeseva One', cursive;
-    color: gray;
-    font-weight: 900;
+    color: rgb(54,54,54);
+    font-weight: 600;
+    
 }
 .stay1{
-    color: rgb(231, 149, 77);
+    color: rgb(232,177,102);
 }
 .sidebar{
     width: 15%;
@@ -44,7 +45,7 @@ section{
     text-decoration: none;
     font-family: 'Poppins', sans-serif;
     padding-top: 15px;
-    background-color: rgb(253, 101, 46);
+    background-color: rgb(220,96,96);
     color: white;
     padding: 10px 40px;
     border-radius: 5px;
@@ -60,19 +61,19 @@ section{
     font-size: 50px;
     font-weight: bold;
     overflow: hidden;
-    color: rgb(87, 87, 87);
+    color: rgb(27,18,59);
+    font-weight: 600;
 }
 .year{
-    color: rgb(255, 167, 91);
+    color: rgb(230,176,101);
 }
 .box1{
-    box-shadow: 10px 10px 30px rgb(128, 128, 128);
     width: 20%;
-    padding-right: 10px;
+    padding-right: 20px;
     margin-left: 250px;
     margin-right: 50px;
     height: 350px;
-    padding-left: 10px;
+    padding-left: 20px;
     border-radius: 15px;
     font-family: 'Poppins', sans-serif;
     padding-bottom: 50px;
@@ -85,13 +86,12 @@ section{
     
 }
 .box2{
-    box-shadow: 10px 10px 30px grey;
     width: 20%;
-    padding-right: 10px;
+    padding-right: 20px;
     margin-left: 50px;
     margin-right: 50px;
     height: 350px;
-    padding-left: 10px;
+    padding-left: 20px;
     border-radius: 15px;
     font-family: 'Poppins', sans-serif;
     padding-bottom: 50px;
@@ -104,13 +104,12 @@ section{
     
 }
 .box3{
-    box-shadow: 10px 10px 30px grey;
     width: 20%;
-    padding-right: 10px;
+    padding-right: 20px;
     margin-left: 50px;
     margin-right: 50px;
     height: 350px;
-    padding-left: 10px;
+    padding-left: 20px;
     border-radius: 15px;
     font-family: 'Poppins', sans-serif;
     padding-bottom: 50px;
@@ -119,7 +118,7 @@ section{
 .goals{
     width: 40%;
     margin: 0%;
-    
+    padding-top: 20px;
 }
 .box{
     margin-top: 100px;
@@ -138,7 +137,7 @@ section{
 .read{
     text-decoration: none;
     padding: 15px  30px;
-    background-color: rgb(240, 78, 57);
+    background-color: rgb(220,96,96);
     border-radius: 5px;
     color: white;
 }
@@ -184,7 +183,7 @@ section{
     text-align: center;
     width: 100%;
     height: 100px;
-    background-color: rgb(36, 36, 36);
+    background-color: rgb(20,20,29);
     margin-top: 50px;
 }
 .hard{
@@ -196,7 +195,7 @@ section{
     color: white;
 }
 .m20{
-    color: tomato;
+    color: rgb(220,96,96);
 }
 .person3{
     width: 60%;
@@ -223,7 +222,7 @@ section{
 .hire33{
     text-decoration: none;
     padding: 10px 40px;
-    background-color: orangered;
+    background-color: rgb(220,96,96);
     color: white;
     border-radius: 5px;
     font-family: 'Poppins', sans-serif;
